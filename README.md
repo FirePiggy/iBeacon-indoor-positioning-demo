@@ -31,3 +31,8 @@ Beacons are shown on a map (office/home floor plan).
 * add properties to beacon icons
 * connect to iTAG's
 * ... what else?
+
+
+##Usefull links:
+* https://www.youtube.com/watch?v=n2M_LSPlVOY
+* http://blog.shinovent.fi/2018/03/ibeacon-indoor-positioning-with-esp32.html
